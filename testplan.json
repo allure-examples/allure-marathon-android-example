@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "tests": [
+    {
+      "id": "777",
+      "selector": "allure.example.marathon.IncrementButtonTest.shouldIncreaseValue"
+    }
+  ]
+}
